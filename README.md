@@ -1,1 +1,1 @@
-![泡芙过来啦](./cover.png)
+![泡芙过来啦](./img/cover.png)
